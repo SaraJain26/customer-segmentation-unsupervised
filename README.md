@@ -45,14 +45,3 @@ Full project report is included in the repository as a `.docx` file.
 
 ## 🔗 Links
 - Dataset: [Kaggle Mall Customer Segmentation Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial)
-
----
-
-## 👤 Team
-- Project by: [Your Name / Team Name]
-- Institution: Atria Institute of Technology, Department of CSE
-
----
-
-## 📬 Contact
-For any queries, feel free to reach out: [your.email@example.com]
